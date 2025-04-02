@@ -2,7 +2,7 @@
   "name": "advanced-projects",
   "type": "module",
   "version": "1.0.0",
-  "main": "server.js",
+  "main": "main.jsx",
   "scripts": {
     "dev": "nodemon backend/server.js",
     "start": "node backend/server.js" 
